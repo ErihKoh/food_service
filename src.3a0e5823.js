@@ -17,4 +17,4 @@ var e=document.querySelector(".js-btn");e.addEventListener("click",function(){re
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./css/style.css");var e=u(require("./js/creat_markup")),r=u(require("./js/toggle_theme")),t=u(require("./js/showAlertAddToCart"));function n(){if("function"!=typeof WeakMap)return null;var e=new WeakMap;return n=function(){return e},e}function u(e){if(e&&e.__esModule)return e;if(null===e||"object"!=typeof e&&"function"!=typeof e)return{default:e};var r=n();if(r&&r.has(e))return r.get(e);var t={},u=Object.defineProperty&&Object.getOwnPropertyDescriptor;for(var o in e)if(Object.prototype.hasOwnProperty.call(e,o)){var i=u?Object.getOwnPropertyDescriptor(e,o):null;i&&(i.get||i.set)?Object.defineProperty(t,o,i):t[o]=e[o]}return t.default=e,r&&r.set(e,t),t}
 },{"./css/style.css":"amqR","./js/creat_markup":"YktZ","./js/toggle_theme":"cysF","./js/showAlertAddToCart":"zTu0"}]},{},["Focm"], null)
-//# sourceMappingURL=/food-service/src.3a0e5823.js.map
+//# sourceMappingURL=/food_service/src.3a0e5823.js.map
